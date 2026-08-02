@@ -1,0 +1,13 @@
+{
+    "full_name": "John Smith",
+    "age": 12,
+    "email": "johnsmith@gmail.com",
+    "phone": "9876543210",
+    "school": "Green Valley School",
+    "grade": 6,
+    "parent_name": "Robert Smith",
+    "emergency_contact": "9123456780",
+    "has_learning_difficulty": true,
+    "difficulty_type": "Dyslexia",
+    "consent": true
+}
